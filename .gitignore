@@ -484,4 +484,4 @@ MigrationBackup/
 .ionide/
 
 #
-./data/data.zip
+/data/data.zip
